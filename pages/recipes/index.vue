@@ -10,7 +10,7 @@
         thumbnail = "https://static.wixstatic.com/media/f90248_717f584eb3cb4fbc96b4b79fc5a39d13~mv2.jpg"
         title = "Have a Salad "
         previewText = "Are salads real?"
-        id
+        id="2"
     />
   </section>
 </template>
