@@ -24,6 +24,10 @@
   }
 </script>
 <style scoped>
+  a {
+    text-decoration: none;
+    color: black;
+  }
   .thumbnail {
     height: 150px;
     width: 200px;
@@ -31,4 +35,5 @@
     background-size: cover ;
     background-position: center;
   }
+
 </style>
